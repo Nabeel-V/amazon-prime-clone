@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/amazon-prime-clone/static/css/main.80b877d1.chunk.css",
+    "main.js": "/amazon-prime-clone/static/js/main.fe479f96.chunk.js",
+    "main.js.map": "/amazon-prime-clone/static/js/main.fe479f96.chunk.js.map",
+    "runtime-main.js": "/amazon-prime-clone/static/js/runtime-main.6c4841ea.js",
+    "runtime-main.js.map": "/amazon-prime-clone/static/js/runtime-main.6c4841ea.js.map",
+    "static/css/2.150d169a.chunk.css": "/amazon-prime-clone/static/css/2.150d169a.chunk.css",
+    "static/js/2.6e66859c.chunk.js": "/amazon-prime-clone/static/js/2.6e66859c.chunk.js",
+    "static/js/2.6e66859c.chunk.js.map": "/amazon-prime-clone/static/js/2.6e66859c.chunk.js.map",
+    "index.html": "/amazon-prime-clone/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/amazon-prime-clone/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.80b877d1.chunk.css.map": "/amazon-prime-clone/static/css/main.80b877d1.chunk.css.map",
+    "static/js/2.6e66859c.chunk.js.LICENSE.txt": "/amazon-prime-clone/static/js/2.6e66859c.chunk.js.LICENSE.txt",
+    "static/media/prime.308e3fc6.png": "/amazon-prime-clone/static/media/prime.308e3fc6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4841ea.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6e66859c.chunk.js",
+    "static/css/main.80b877d1.chunk.css",
+    "static/js/main.fe479f96.chunk.js"
+  ]
+}
