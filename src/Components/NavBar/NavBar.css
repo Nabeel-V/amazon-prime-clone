@@ -1,0 +1,29 @@
+
+.main-body{
+    width: 100%;
+    position: fixed ;
+    z-index: 1;
+}
+.navbar{
+
+    height: 50px;
+    display: flex;
+    background-color: #030417;
+    justify-content: space-between;
+    
+}
+.navbar-nav{
+background-color: #030417;
+}
+.logo{
+  left: 10px;
+  width: 100px;
+}
+a{
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+li {
+  margin-left: 5px;
+  color: #adb3af;
+}

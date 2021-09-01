@@ -1,0 +1,65 @@
+.head {
+  color: #fff;
+  margin: 20px 0px 10px 10px;
+}
+.poster {
+  color: #fff;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: row;
+}
+.poster-content {
+  position: relative;
+}
+.posters {
+  height: 350px;
+  width: 240px;
+  margin-left: 20px;
+}
+.playbtn, .small-playbtn{
+    width: 50px;
+    position: absolute;
+    bottom: 21%;
+    left:8%;
+    cursor: pointer;
+}
+.small-playbtn{
+    bottom: 26%;
+    width: 40px;
+    left: 10%;
+}
+.poster::-webkit-scrollbar {
+  display: none;
+}
+.small-posters {
+  height: 250px;
+  width: 180px;
+  margin-left: 20px;
+}
+
+.movie-name{
+  margin-left: 20px;
+  font-size: medium;
+  cursor: pointer;
+  padding: 5px;
+  overflow: hidden;
+  text-overflow: inherit;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+.movie-year{
+  margin-left: 20px;
+}
+.main-section{
+  position: relative;
+}
+.popupwindow{
+    z-index: 40;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    right: 10%;
+}
+
